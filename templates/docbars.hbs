@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<div>
+{{#each templates}}
+  <h3 id="{{name}}"></h3>
+  <ul>
+  {{#each data}}
+    <li>{{this}}</li>
+  {{/each}}
+  </ul>
+{{/each}}
+</div>

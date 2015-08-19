@@ -1,0 +1,293 @@
+{
+    "articles": {
+        "path": "../rizzo-next/src/components/articles/articles.hbs",
+        "data": [
+            "articles",
+            "author_image",
+            "author_name",
+            "author_title",
+            "author_url",
+            "more_link_text",
+            "see_more_url",
+            "src",
+            "teaser1",
+            "teaser2",
+            "title",
+            "url"
+        ]
+    },
+    "collections": {
+        "path": "../rizzo-next/src/components/collections/collections.hbs",
+        "data": [
+            "banner_image",
+            "collection.caption",
+            "collection.collections",
+            "name"
+        ]
+    },
+    "food_and_drink": {
+        "path": "../rizzo-next/src/components/food_and_drink/food_and_drink.hbs",
+        "data": [
+            "food_and_drink",
+            "name",
+            "see_more_url",
+            "tags",
+            "this",
+            "title",
+            "url"
+        ]
+    },
+    "footer": {
+        "path": "../rizzo-next/src/components/footer/footer.hbs",
+        "data": [
+            "className",
+            "footer_bottom_links",
+            "footer_nav_destination_items",
+            "footer_nav_forum_items",
+            "footer_nav_shop_items",
+            "footer_social_media_links",
+            "title",
+            "url"
+        ]
+    },
+    "guidebook": {
+        "path": "../rizzo-next/src/components/guidebook/guidebook.hbs",
+        "data": [
+            "blurb",
+            "books",
+            "first_image",
+            "large.hq",
+            "large.lossless",
+            "large.normal",
+            "medium.hq",
+            "medium.lossless",
+            "medium.normal",
+            "second_image",
+            "small.hq",
+            "small.lossless",
+            "small.normal",
+            "store_link_href",
+            "subtitle",
+            "title"
+        ]
+    },
+    "header": {
+        "path": "../rizzo-next/src/components/header/header.hbs",
+        "data": [
+            "else",
+            "images",
+            "place.title",
+            "type"
+        ]
+    },
+    "hotels": {
+        "path": "../rizzo-next/src/components/hotels/hotels.hbs",
+        "data": [
+            "lodgings",
+            "slug"
+        ]
+    },
+    "interests": {
+        "path": "../rizzo-next/src/components/interests/interests.hbs",
+        "data": [
+            "card_count",
+            "interest",
+            "interests.cards",
+            "interests.title",
+            "order",
+            "src",
+            "url"
+        ]
+    },
+    "map": {
+        "path": "../rizzo-next/src/components/map/map.hbs",
+        "data": [
+            "initial.to_json"
+        ]
+    },
+    "love_letter": {
+        "path": "../rizzo-next/src/components/love_letter/love_letter.hbs",
+        "data": [
+            "love_letter.author.image",
+            "love_letter.author.name",
+            "love_letter.author.title",
+            "love_letter.author.url",
+            "love_letter_more",
+            "love_letter_text",
+            "love_letter_title"
+        ]
+    },
+    "map_static": {
+        "path": "../rizzo-next/src/components/map_static/map_static.hbs",
+        "data": [
+            "static_map.map_url"
+        ]
+    },
+    "masthead": {
+        "path": "../rizzo-next/src/components/masthead/masthead.hbs",
+        "data": [
+            "else",
+            "images",
+            "large.hq",
+            "masthead.first",
+            "masthead.json",
+            "masthead.parent_name",
+            "masthead.parent_slug",
+            "masthead_images",
+            "place.name",
+            "strapline",
+            "top_places",
+            "type"
+        ]
+    },
+    "masthead_video": {
+        "path": "../rizzo-next/src/components/masthead/masthead_video.hbs",
+        "data": []
+    },
+    "hamburger": {
+        "path": "../rizzo-next/src/components/navigation/hamburger.hbs",
+        "data": []
+    },
+    "navigation": {
+        "path": "../rizzo-next/src/components/navigation/navigation.hbs",
+        "data": [
+            "current",
+            "else",
+            "images",
+            "navigation",
+            "slug",
+            "submenu.call_to_action",
+            "submenu.call_to_action.slug",
+            "submenu.call_to_action.title",
+            "submenu.featured",
+            "submenu.featured.image",
+            "submenu.featured.link",
+            "submenu.featured.subtitle",
+            "submenu.featured.title",
+            "submenu.items",
+            "submenu.items.length",
+            "title",
+            "type"
+        ]
+    },
+    "user_cart": {
+        "path": "../rizzo-next/src/components/navigation/user_cart.hbs",
+        "data": [
+            "action",
+            "actiontitle",
+            "alt",
+            "else",
+            "image",
+            "items",
+            "name",
+            "price",
+            "title"
+        ]
+    },
+    "notification": {
+        "path": "../rizzo-next/src/components/notification/notification.hbs",
+        "data": [
+            "number"
+        ]
+    },
+    "_place.html": {
+        "path": "../rizzo-next/src/components/place/_place.html.hbs",
+        "data": [
+            "place.name"
+        ]
+    },
+    "search": {
+        "path": "../rizzo-next/src/components/search/search.hbs",
+        "data": []
+    },
+    "_stacks.html": {
+        "path": "../rizzo-next/src/components/stacks/_stacks.html.hbs",
+        "data": [
+            "banner_image",
+            "destinations.articles",
+            "destinations.articles.to_json",
+            "destinations.caption",
+            "name"
+        ]
+    },
+    "index.html": {
+        "path": "../rizzo-next/src/components/search/search_item/index.html.hbs",
+        "data": [
+            "else",
+            "image",
+            "name",
+            "slug",
+            "type"
+        ]
+    },
+    "sub_nav": {
+        "path": "../rizzo-next/src/components/sub_nav/sub_nav.hbs",
+        "data": [
+            "link",
+            "sub_nav",
+            "title"
+        ]
+    },
+    "survival_guide": {
+        "path": "../rizzo-next/src/components/survival_guide/survival_guide.hbs",
+        "data": [
+            "blurb",
+            "slug",
+            "src",
+            "survival_guide.items",
+            "survival_guide.see_more_url",
+            "survival_guide.title",
+            "title"
+        ]
+    },
+    "things_to_do": {
+        "path": "../rizzo-next/src/components/things_to_do/things_to_do.hbs",
+        "data": [
+            "cards",
+            "see_more_url",
+            "src",
+            "subtitle",
+            "title",
+            "top_things_to_do",
+            "url"
+        ]
+    },
+    "_tooltip.html": {
+        "path": "../rizzo-next/src/components/tooltip/_tooltip.html.hbs",
+        "data": []
+    },
+    "top_places": {
+        "path": "../rizzo-next/src/components/top_places/top_places.hbs",
+        "data": [
+            "centered",
+            "country_name",
+            "name",
+            "place.name",
+            "slug",
+            "thumbnail",
+            "top_places.cities",
+            "top_places.countries",
+            "top_places.top_cities",
+            "top_places.top_countries"
+        ]
+    },
+    "tours": {
+        "path": "../rizzo-next/src/components/tours/tours.hbs",
+        "data": [
+            "blurb",
+            "caption",
+            "image",
+            "price",
+            "see_more_url",
+            "title",
+            "tours",
+            "url"
+        ]
+    },
+    "brightcove": {
+        "path": "../rizzo-next/src/components/video/brightcove.hbs",
+        "data": [
+            "playerId"
+        ]
+    }
+}
